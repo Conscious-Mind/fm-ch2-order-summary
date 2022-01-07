@@ -26,7 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop
+
+![](./screenshots/Frontend-Mentor-Order-summary-card-desktop.png)
+
+Mobile
+
+![](./screenshots/Frontend-Mentor-Order-summary-card-mobile.png)
 
 ### Links
 
