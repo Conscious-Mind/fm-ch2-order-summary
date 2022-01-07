@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Conscious-Mind/fm-ch2-order-summary](https://github.com/Conscious-Mind/fm-ch2-order-summary)
+- Live Site URL: [https://davidson-order-summary.netlify.app/](https://davidson-order-summary.netlify.app/)
 
 ## My process
 
