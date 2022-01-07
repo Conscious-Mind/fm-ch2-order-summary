@@ -108,6 +108,7 @@ button {
   background-color: transparent;
   color: var(--bright-blue);
   text-decoration: underline;
+  padding-right: 1rem;
 }
 
 .btn-change:hover {
